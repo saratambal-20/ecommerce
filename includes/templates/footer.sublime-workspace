@@ -1,0 +1,495 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"sp",
+				"span"
+			],
+			[
+				"mar",
+				"margin-top\tproperty"
+			],
+			[
+				"border",
+				"border-color\tproperty"
+			],
+			[
+				"bor",
+				"border-width\tproperty"
+			],
+			[
+				"h",
+				"height\tproperty"
+			],
+			[
+				"p",
+				"padding\tproperty"
+			],
+			[
+				"b",
+				"background-color\tproperty"
+			],
+			[
+				"d",
+				"display\tproperty"
+			],
+			[
+				"margin",
+				"margin-bottom\tproperty"
+			],
+			[
+				"img",
+				"img-thumbnail"
+			],
+			[
+				"_",
+				"_SESSION"
+			],
+			[
+				"col",
+				"col-md-3"
+			],
+			[
+				"item_",
+				"item_id"
+			],
+			[
+				"co",
+				"comment"
+			],
+			[
+				"u",
+				"userid"
+			],
+			[
+				"z",
+				"zcomment"
+			],
+			[
+				"item",
+				"itemid"
+			],
+			[
+				"ite",
+				"itemid"
+			],
+			[
+				"r",
+				"row"
+			],
+			[
+				"bo",
+				"border-top\tproperty"
+			],
+			[
+				"di",
+				"div\tTag"
+			],
+			[
+				"fo",
+				"font-weight\tproperty"
+			],
+			[
+				"User",
+				"UserID"
+			],
+			[
+				"filter",
+				"filter_var"
+			],
+			[
+				"c",
+				"country"
+			],
+			[
+				"cat",
+				"category"
+			],
+			[
+				"l",
+				"live-price"
+			],
+			[
+				"live",
+				"live-title"
+			],
+			[
+				"m",
+				"margin\tproperty"
+			],
+			[
+				"fil",
+				"filterdUser"
+			],
+			[
+				"text",
+				"text-center"
+			],
+			[
+				"marg",
+				"margin\tproperty"
+			],
+			[
+				"sess",
+				"session_start"
+			],
+			[
+				"print",
+				"print_r"
+			],
+			[
+				"re",
+				"required\tAttr"
+			],
+			[
+				"cl",
+				"class"
+			],
+			[
+				"str_rep",
+				"str_replace"
+			],
+			[
+				"latest",
+				"latestItems"
+			],
+			[
+				"i",
+				"inline-block\tdisplay"
+			],
+			[
+				"ba",
+				"back"
+			],
+			[
+				"font",
+				"font-size\tproperty"
+			],
+			[
+				"o",
+				"overflow\tproperty"
+			],
+			[
+				"M",
+				"Member_ID"
+			],
+			[
+				"P",
+				"Price"
+			],
+			[
+				"S",
+				"Status"
+			],
+			[
+				"pric",
+				"Price"
+			],
+			[
+				"for",
+				"foreach"
+			],
+			[
+				"exe",
+				"execute"
+			],
+			[
+				"D",
+				"Description"
+			],
+			[
+				"w",
+				"width\tproperty"
+			],
+			[
+				"op",
+				"option\tTag"
+			],
+			[
+				"fu",
+				"full-view"
+			],
+			[
+				"s",
+				"span"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"btn-",
+				"btn-primary"
+			],
+			[
+				"A",
+				"Allow_Ads"
+			],
+			[
+				"V",
+				"Visibility"
+			],
+			[
+				"te",
+				"text-center"
+			],
+			[
+				"ca",
+				"categories"
+			],
+			[
+				"pre",
+				"prepare"
+			],
+			[
+				"ord",
+				"ordering"
+			],
+			[
+				"des",
+				"description"
+			],
+			[
+				"U",
+				"UserID"
+			],
+			[
+				"the",
+				"theMsg"
+			],
+			[
+				"del",
+				"Delete"
+			],
+			[
+				"Full",
+				"FullName"
+			],
+			[
+				"F",
+				"FullName"
+			],
+			[
+				"Pa",
+				"Password"
+			],
+			[
+				"em",
+				"email"
+			],
+			[
+				"row",
+				"rowCount"
+			],
+			[
+				"usern",
+				"Username"
+			],
+			[
+				"background-c",
+				"background-color\tproperty"
+			],
+			[
+				"margin-",
+				"margin-bottom\tproperty"
+			],
+			[
+				"me",
+				"meta\tTag"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 62.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/xampp/htdocs/ecommerce/profile.php",
+		"/C/xampp/htdocs/ecommerce/items.php",
+		"/C/xampp/htdocs/ecommerce/newad.php",
+		"/C/xampp/htdocs/ecommerce/includes/templates/header.php",
+		"/C/xampp/htdocs/ecommerce/includes/templates/footer.php",
+		"/C/xampp/htdocs/ecommerce/includes/functions/functions.php",
+		"/C/xampp/htdocs/ecommerce/categories.php",
+		"/C/xampp/htdocs/ecommerce/layout/css/frontend.css",
+		"/C/xampp/htdocs/ecommerce/layout/js/front.js",
+		"/C/xampp/htdocs/ecommerce/login.php",
+		"/C/xampp/htdocs/ecommerce/index.php",
+		"/C/xampp/htdocs/ecommerce/init.php",
+		"/C/xampp/htdocs/ecommerce/admin/items.php",
+		"/C/xampp/htdocs/ecommerce/admin/includes/templates/navbar.php",
+		"/C/xampp/htdocs/ecommerce/admin/dashboard.php",
+		"/C/xampp/htdocs/ecommerce/admin/layout/css/backend.css",
+		"/C/xampp/htdocs/ecommerce/admin/members.php",
+		"/C/xampp/htdocs/ecommerce/admin/layout/js/backend.js",
+		"/C/xampp/htdocs/ecommerce/admin/comments.php",
+		"/C/xampp/htdocs/ecommerce/admin/includes/templates/header.php",
+		"/C/xampp/htdocs/ecommerce/admin/includes/languages/english.php",
+		"/C/xampp/htdocs/ecommerce/admin/layout/css/jquery.selectBoxIt.css",
+		"/C/xampp/htdocs/ecommerce/admin/copy_template.php",
+		"/C/xampp/htdocs/ecommerce/admin/includes/templates/footer.php",
+		"/C/xampp/htdocs/ecommerce/admin/categories.php",
+		"/C/xampp/htdocs/ecommerce/admin/includes/templates/categories.php",
+		"/C/xampp/htdocs/ecommerce/admin/index.php",
+		"/C/xampp/htdocs/ecommerce/admin/page.php",
+		"/C/xampp/htdocs/ecommerce/admin/includes/functions/functions.php",
+		"/C/xampp/htdocs/ecommerce/admin/init.php",
+		"/C/xampp/htdocs/ecommerce/admin/logout.php",
+		"/C/xampp/htdocs/ecommerce/admin/connect.php",
+		"/C/xampp/htdocs/ecommerce/admin/includes/languages/arabic.php",
+		"/C/xampp/htdocs/ecommerce/admin/layout/css/back.css",
+		"/C/xampp/htdocs/sara.php"
+	],
+	"find":
+	{
+		"height": 27.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 39.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "footer.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 201.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

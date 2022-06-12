@@ -1,0 +1,1 @@
+ getAllFrom($field, $table,$where,$orderfield,$ordering)
